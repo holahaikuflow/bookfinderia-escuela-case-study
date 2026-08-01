@@ -70,6 +70,33 @@ The platform does not begin by testing literary knowledge. It begins by listenin
 - Metrics and anomaly detection
 - Retry logic with backoff for failed writes
 
+## Product walkthrough
+
+### Public landing
+
+The landing page explains the product to school leaders and teachers, presenting the reading problem, the curated catalog, and the privacy model.
+
+![BookFindería Escuela public landing](screenshots/01-landing.png)
+
+### Student quiz
+
+Students answer six questions about their interests and preferences. The quiz does not test literary knowledge.
+
+![BookFindería Escuela student quiz](screenshots/02-student-quiz.png)
+
+### Personalized recommendations
+
+The recommendation engine returns books aligned with the student's answers and provides a direct path to choosing one.
+
+![BookFindería Escuela student recommendations](screenshots/03-student-recommendations.png)
+
+### Teacher dashboard
+
+Teachers can see classroom progress, identify students who need attention, and review reading status without asking every student individually.
+
+![BookFindería Escuela teacher dashboard](screenshots/04-teacher-dashboard.png)
+
+
 ## Architecture
 
 The platform is built inside the same repository and database as the consumer BookFindería product.
