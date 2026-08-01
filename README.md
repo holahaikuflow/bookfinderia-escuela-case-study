@@ -133,6 +133,7 @@ To enforce this:
 ## Technical documentation
 
 - [System architecture](docs/architecture.md)
+- [AI-assisted engineering workflow](docs/ai-assisted-workflow.md)
 
 
 ## Privacy by design
