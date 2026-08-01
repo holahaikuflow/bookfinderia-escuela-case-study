@@ -130,6 +130,11 @@ To enforce this:
 - Cursor
 - ChatGPT
 
+## Technical documentation
+
+- [System architecture](docs/architecture.md)
+
+
 ## Privacy by design
 
 Students are anonymous by architecture.
