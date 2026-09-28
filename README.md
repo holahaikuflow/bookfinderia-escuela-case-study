@@ -41,7 +41,7 @@ The platform does not begin by testing literary knowledge. It begins by listenin
 
 - Anonymous access through QR codes
 - No email, national ID, or real name required
-- Six-question interest-based quiz
+- Seven-question interest-based quiz
 - Three personalized book recommendations
 - Explanations based on actual quiz signals
 - Book details, availability, and acquisition guidance
@@ -80,7 +80,7 @@ The landing page explains the product to school leaders and teachers, presenting
 
 ### Student quiz
 
-Students answer six questions about their interests and preferences. The quiz does not test literary knowledge.
+Students answer seven questions about their interests and preferences. The quiz does not test literary knowledge.
 
 ![BookFindería Escuela student quiz](screenshots/02-student-quiz.png)
 
@@ -241,9 +241,9 @@ Production verification included:
 
 ## Current status
 
-The product is deployed in production and functionally complete for its first school pilot.
+BookFindería Escuela is deployed and currently running pilots with two schools in Chile.
 
-The remaining dependency is the school calendar and pilot date, not a blocking technical issue.
+The product is being validated in real educational settings while I continue iterating on the student, teacher, and administration workflows based on pilot feedback.
 
 ## Links
 
